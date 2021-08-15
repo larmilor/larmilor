@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @larmilor
 - 👀 I’m interested in ... Data sciences
 - 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...project
 - 📫 How to reach me ...+2347065957963
 
 <!---
